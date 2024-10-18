@@ -1,0 +1,8 @@
+Django>=4.0
+gunicorn
+Pillow
+psycopg2-binary
+django-widget-tweaks
+whitenoise
+dj-database-url
+django-environ
